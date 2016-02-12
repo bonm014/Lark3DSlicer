@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Lark3DSlicer\Lark3dSlicer\obj\Debug\
+D:\Lark3DSlicer\Lark3dSlicer\Lark3dSlicer\obj\Debug\
 Lark3dSlicer
 none
 false
 DEBUG;TRACE
-D:\Lark3DSlicer\Lark3dSlicer\App.xaml
+D:\Lark3DSlicer\Lark3dSlicer\Lark3dSlicer\App.xaml
 11151548125
 
 9885414539
 13738642453
 MainWindow.xaml;
 
-True
+False
 
